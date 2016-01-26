@@ -1,3 +1,10 @@
+body {
+	background-image: url(../images/binbows.jpg); 
+	background-size: 100%;
+	 background-repeat: no-repeat;
+}
 li {
 	font-family: "franklin gothic medium", sans-serif; 
 	font-size: 16px; 
+}
+
